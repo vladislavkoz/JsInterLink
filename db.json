@@ -1,10 +1,24 @@
 {
   "students": [
     {
-      "id":  1 , "name": "student1", "knowledge": 3
-    }
+      "id": 1,
+      "name": "Jane",
+      "knowledge": 3
+    },
     {
-      "id":  2 , "name": "student2", "knowledge": 14
+      "id": 2,
+      "name": "Jhon",
+      "knowledge": 14
+    },
+    {
+      "name": "Vova",
+      "knowledge": "3",
+      "id": 3
+    },
+    {
+      "name": "Petya",
+      "knowledge": "12",
+      "id": 4
     }
   ]
 }
